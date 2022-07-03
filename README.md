@@ -1,0 +1,1 @@
+# Fivem-Galaxy-Fixer.cfx.
